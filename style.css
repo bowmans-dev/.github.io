@@ -234,17 +234,6 @@ button:disabled {
 	}
 }
 
-@media screen and (min-width: 1000px) {
-
-	p {
-		margin-left: 15rem;
-		margin-right: 15rem;
-	}
-	.link {
-		margin: 6%;
-	}
-	
-}
 @media screen and (min-width: 877px) {
 
 	button {
@@ -335,14 +324,4 @@ button:disabled {
 	p {
 		color: #0059b3;
 	}
-}
-
-@media screen and (min-width: 1000px) {
-
-	img {
-		width: 60%;
-	  margin: auto;
-	  display: block;
-	}
-
 }
